@@ -1,0 +1,42 @@
+body{
+    font-family: 'Lato';
+    margin:0;
+   
+}
+/* header style  */
+header{
+    background-color: rgba(229, 84, 115, 0.10);;
+}
+.lets-make-beautiful-container{
+    display: flex;
+    padding: 0 240px;
+    gap: 97px;
+}
+.lets-make-beautiful-title{
+color: #272727;
+font-size: 80px;
+font-weight: 800;
+margin-bottom: 32px;
+}
+
+
+
+.lets-make-beautiful-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+.Shop-now-btn{
+    padding: 20px 43px;
+    border-radius: 8px;
+    background-color: #E55473;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+.header-flower{
+    margin: 50px 0 0 0;
+   
+}

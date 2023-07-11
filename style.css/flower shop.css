@@ -244,10 +244,15 @@ font-weight: 600;
 .get-the-latest-deal{
     background-image: url(./images/Rectangle\ 9.png);
     background-repeat: no-repeat;
-    padding: 122px 287px;
-    width: 1440px;
+    max-width: 1440px;
+    border-radius: 8px;
     background-position: center;
+    padding: 122px 287px;
+    margin-bottom: 128px;
+    
 }
+
+
 .latest-deal-title{
     color: #272727;
     font-size: 40px;
@@ -290,10 +295,7 @@ font-weight: 600;
     border: none;
 
 }
-.get-the-latest-deal{
-    margin-top: 128px;
-    margin-bottom: 128px;
-}
+
 .email{
     display: flex;
     justify-content: center;

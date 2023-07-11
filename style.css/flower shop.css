@@ -291,6 +291,37 @@ font-weight: 600;
     
 }
 
+.visitSection{
+    background-image: url('./images/pretty-florist-posing-with-bouquet\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 76%;
+    margin: 0 auto;
+    margin-bottom: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.visitBox{
+    background-color: rgba(255, 255, 255, 0.822);
+    text-align: center;
+    height: 350px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.visitLine{
+    width: 100px;
+    border: 1px solid #E55473;
+}
+.nogap{
+    margin: 5px;
+}
+
+
 
 /* footer  */
 

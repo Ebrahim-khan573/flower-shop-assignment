@@ -5,33 +5,28 @@ body{
 }
 /* header style  */
 header{
-    background-color: rgba(229, 84, 115, 0.10);  
+    background-color: rgba(229, 84, 115, 0.10);
+    margin-bottom: 178px;  
 }
+
 .lets-make-beautiful-container{
     display: flex;
-    padding: 50px 240px 0 ;
     gap: 97px;
-    margin-bottom: 178px;
+    padding: 0 240px;
     
-}
-.lets-make-beautiful{
-    padding: 190px 0 147px;
-    gap: 97px;
-}
-
-/* .header-flower{
-    padding-top: 50px 240px 0 0;
-    margin-bottom: 0;
-} */
-
+}  
+    
 .lets-make-beautiful-title{
 color: #272727;
 font-size: 80px;
 font-weight: 800;
+padding-top: 197px;
 margin-bottom: 32px;
 }
 
-
+.header-flower{
+    padding-top: 50px;
+}
 
 .lets-make-beautiful-description{
     color: rgba(39, 39, 39, 0.60);
